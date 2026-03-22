@@ -1,0 +1,55 @@
+# streamlit
+
+# pandas
+
+# PyPDF2
+# python-docx
+# openpyxl
+
+# faiss-cpu
+# sentence-transformers
+# transformers
+# wikipedia
+
+
+
+# langchain==0.1.17
+# langchain-core==0.1.52
+# langchain-community==0.0.38
+# langchain-text-splitters==0.0.1
+# langchain-huggingface==0.0.3
+# langchain-google-genai
+
+# langsmith==0.1.17
+
+# sqlalchemy 
+# mysql-connector-python
+
+# ---------- UI ----------
+streamlit
+pandas
+
+# ---------- File handling ----------
+PyPDF2
+python-docx
+openpyxl
+
+# ---------- Vector DB ----------
+faiss-cpu
+
+# ---------- Embeddings ----------
+sentence-transformers
+transformers
+
+# ---------- Google Gemini ----------
+google-generativeai>=0.7.0
+langchain-google-genai>=1.0.3
+
+# ---------- LangChain (NEW STACK) ----------
+langchain>=0.2.6
+langchain-core>=0.2.6
+langchain-community>=0.2.6
+
+# ---------- Database ----------
+sqlalchemy
+mysql-connector-python
